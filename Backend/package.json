@@ -36,7 +36,7 @@
         "rimraf": "^3.0.2",
         "torrent-stream": "^1.2.0",
         "uniqid": "^5.2.0",
-        "validator": "^12.2.0",
+        "validator": "^13.7.0",
         "yifysubtitles": "^2.1.5",
         "yifysubtitles-api": "^1.0.0"
     }
